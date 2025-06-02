@@ -332,7 +332,6 @@
             { nama: "RIZKY SILVIA", nisn: "3144893260" },
             { nama: "Rosahani", nisn: "3137551355" },
             { nama: "SAFWAN AQILA PRANAJA", nisn: "3169007612" },
-            { nama: "San San Aditya", nisn: "3121436571" },
             { nama: "SANDI RADITYA SANJAYA", nisn: "3140521161" },
             { nama: "SASKIA NABILA", nisn: "3157902122" },
             { nama: "Septiana", nisn: "3123700736" },
